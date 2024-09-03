@@ -4,7 +4,6 @@ aioitertools==0.10.0  # Replace with the appropriate version from PyPI
 aiosignal==1.2.0  # Replace with the appropriate version from PyPI
 alabaster==0.7.13  # Replace with the appropriate version from PyPI
 altair==5.0.1  # Replace with the appropriate version from PyPI
-anaconda-anon-usage==2.6.1  # Replace with the appropriate version from PyPI
 anaconda-catalogs==1.0.0  # Replace with the appropriate version from PyPI
 anaconda-client==1.10.0  # Replace with the appropriate version from PyPI
 anaconda-cloud-auth==1.1.1  # Replace with the appropriate version from PyPI
