@@ -11,4 +11,4 @@ def process_numbers():
     return jsonify({"result": result})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5002)  # Adjust port if needed
+    app.run(host='0.0.0.0', port=10000)  # Adjust port if needed
