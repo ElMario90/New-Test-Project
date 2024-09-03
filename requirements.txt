@@ -4,7 +4,6 @@ aioitertools==0.10.0  # Replaced local file path with a valid PyPI version
 aiosignal==1.2.0  # Replaced local file path with a valid PyPI version
 alabaster==0.7.13  # Replaced local file path with a valid PyPI version
 altair==5.0.1  # Replaced local file path with a valid PyPI version
-anaconda-anon-usage==0.2.0  # Removed since it is not available
 anaconda-client==1.10.0  # Replaced local file path with a valid PyPI version
 anaconda-cloud-auth==1.1.1  # Replaced local file path with a valid PyPI version
 anaconda-navigator==2.5.2  # Replaced local file path with a valid PyPI version
