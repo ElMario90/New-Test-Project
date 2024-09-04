@@ -48,7 +48,7 @@ cloudpickle==2.2.1
 clyent==1.2.1
 colorama==0.4.6
 colorcet==3.0.0
-comm==0.2.5
+comm==0.2.2
 conda==23.7.2
 conda-build==3.24.0
 conda-content-trust==0.1.3
