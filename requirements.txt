@@ -10,7 +10,6 @@ anyio
 appdirs
 applaunchservices
 appnope
-appscript
 archspec
 argon2-cffi
 argon2-cffi-bindings
@@ -53,8 +52,8 @@ multidict<7.0,>=4.5
 yarl<2.0,>=1.0
 frozenlist>=1.1.1
 aiohappyeyeballs>=2.3.0
-async-timeout<5.0,>=4.0; python_version < "3.11"
-typing_extensions>=4.0; python_version < "3.10"
+async-timeout<5.0,>=4.0
+typing_extensions>=4.0
 narwhals>=1.5.2
 jinja2
 packaging
@@ -72,5 +71,5 @@ semver<4
 cryptography>=3.4.0
 pyjwt
 sniffio>=1.1
-exceptiongroup>=1.0.2; python_version < "3.11"
+exceptiongroup>=1.0.2
 idna>=2.8
